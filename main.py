@@ -24,3 +24,4 @@ def view():
     data =load_data()
 
     return data
+    
